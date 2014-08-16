@@ -1,3 +1,7 @@
+##tidyData Codebook##
+##Getting and Cleaning Data##
+##Johns Hopkins University/ Coursera Project##
+
 **Dataset name:**
 * tidyData.txt
 
@@ -13,8 +17,7 @@ Jorge L. Reyes-Ortiz, David Anguita, Alessandro Ghio, and Luca Oneto. Existing d
 was reduced to only include mean and standard deviation measures. The resulting data consits of a data frame with 180 observations of 90 variables.
 
 * Information on the experiment and access to the original data sets can be found here:
-
-* http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
+  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
 
 **Variable Nomenclature:**
 * prefix 't':time
