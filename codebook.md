@@ -4,7 +4,7 @@
 **Type:**
 * data.frame
 
-**Mesasures:***
+**Mesasures:**
 * 180 observartions across 90 variables
 
 **Description:**
