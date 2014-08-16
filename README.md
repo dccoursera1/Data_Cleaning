@@ -26,11 +26,11 @@ The dataset includes the following files:
 
 * codebook.md: An explanation of the tidyData.txt dataframe, labels, factors, variables, and variable nomenclature
 
-* tidyData.R: The R script used to create the tidyData dataframe
+* run_analysis.R: The R script used to create the tidyData dataframe
 
 Notes: 
 ======
-* The tidyData.txt data set can be created with the tidyData.R script.  The script assumes that the original data set,UCI HAR Dataset, is in the working directory of your R installation. 
+* The tidyData.txt data set can be created with the run_analysis.R script.  The script assumes that the original data set,UCI HAR Dataset, is in the working directory of your R installation. 
 * Each row consists of the subject and activity observation
 * Each column consists of a measure of the row observation
 
