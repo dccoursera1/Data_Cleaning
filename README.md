@@ -1,6 +1,6 @@
 ##tidyData.txt README##
-##Getting and Cleaning Data##
-##Johns Hopkins University/ Coursera Project##
+###Getting and Cleaning Data###
+###Johns Hopkins University/ Coursera Project###
 
 
 The tidyData.txt data set is the combination of two data tables from the Human Activity Recognition Using Smartphones experiments.  The original experiments were caried out with 30 volunteers . Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone on the waist. An embedded accelerometer and gyroscope captured movement data.  The original dataset were randomly partitioned into two sets, where 70% of the volunteers were selected for generating the training data (7352 observations across 561 variables) and 30% the test data (2947 observations across 561 variables). Activity variables (6 factors), subject variables (30 factors), and measurements ( 561 variables) were contained in seperate files.  Using tools associated with the data.table() package in R, these data files were merged to create an iniital datatable of 10299 observations across 561 variables.  
