@@ -1,4 +1,5 @@
-tidyData.txt
+==================================================================
+tidyData.txt README
 Getting and Cleaning Data
 Johns Hopkins University/ Coursera Project
 ==================================================================
